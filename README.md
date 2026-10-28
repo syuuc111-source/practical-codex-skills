@@ -4,6 +4,18 @@
 
 本仓库包含 **5 个技能入口 + 2 组中文覆盖包**。第三方完整工具、模型、付费软件和账号凭据不随仓库分发；42 项本地技能及 3 项 LibTV 插件工作流的整理结果见 [CATALOG.md](CATALOG.md)。
 
+## 独立 Skill 仓库
+
+每项已拆分为独立公开仓库，可以单独获取、维护和安装。当前仓库保留为合集；两个中文覆盖包仍需对应上游原版。
+
+- [图片转 BIMBase · image-to-bimbase](https://github.com/syuuc111-source/image-to-bimbase)
+- [论文写作 · research-paper-writing](https://github.com/syuuc111-source/research-paper-writing)
+- [论文配图 · academic-figure-generator](https://github.com/syuuc111-source/academic-figure-generator)
+- [科学研究 · scientific-agen](https://github.com/syuuc111-source/scientific-agen)
+- [DeepFlow 中文入口 · deepflow](https://github.com/syuuc111-source/deepflow)
+- [Blender 中文覆盖包 · blender-control](https://github.com/syuuc111-source/blender-control)
+- [Codex Dream Skin 中文覆盖包 · codex-dream-skin](https://github.com/syuuc111-source/codex-dream-skin)
+
 ## 包含什么
 
 | 入口 | 用途 | 运行前需要 |
