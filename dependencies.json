@@ -1,0 +1,32 @@
+{
+  "academic-figure-generator": {
+    "url": "https://github.com/LigphiDonk/academic-figure-generator",
+    "commit": "0a2bec6bb56d6b47143a81909f8d818716bdcbab",
+    "entry": "academic-figure-prompt/SKILL.md"
+  },
+  "research-paper-writing": {
+    "url": "https://github.com/Master-cai/Research-Paper-Writing-Skills",
+    "commit": "77e7c2c1ba06f7d71844873147665437a03aac1b",
+    "entry": "research-paper-writing/SKILL.md"
+  },
+  "scientific-agen": {
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "commit": "92ace75ac21efe19a620434e0ca4e356081fe807",
+    "entry": "docs/skills.md"
+  },
+  "deepflow": {
+    "url": "https://github.com/saidwafiq/deepflow",
+    "commit": "122b53859786d628933b6c08d39d66afa549ef0a",
+    "entry": "src/commands/df/discover.md"
+  },
+  "blender-control": {
+    "url": "https://github.com/JustinChangTW/ai-skills-core",
+    "commit": "6dce628e5a1cd5b948ac8b289ff4f8361a8727bd",
+    "entry": "skills/07-presentations-visual/blender-control/SKILL.md"
+  },
+  "codex-dream-skin": {
+    "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
+    "commit": "6fc42df48a6a5365011f55cc349e20c038e56d1d",
+    "entry": "windows/SKILL.md"
+  }
+}

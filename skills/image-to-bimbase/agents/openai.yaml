@@ -1,0 +1,4 @@
+interface:
+  display_name: "image-to-bimbase（图片转 BIMBase 模型）"
+  short_description: "识别参考图片中的道路铁路，编写组件代码并在 BIMBase 新建和保存模型"
+  default_prompt: "使用 $image-to-bimbase 根据参考图片识别线路，在 VS Code 准备代码并在 BIMBase 新建工程生成模型。"
